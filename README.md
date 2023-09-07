@@ -11,7 +11,7 @@ Example of a C++ application using the Windows API to send data to a Node.js ser
 
 4º Ejecutar la APP de escritorio (Desktop/x64/Debug/Desktop.exe)
 
-Escirbir el nombre en la App y pulsar el botón
+Escribir el nombre en la App y pulsar el botón
 
 Pulsar el botón en la web
 
