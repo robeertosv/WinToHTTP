@@ -4,8 +4,11 @@ Example of a C++ application using the Windows API to send data to a Node.js ser
 # Como usarla
 
 1º Abrir Server/server.js y elegir el puerto deseado, por defecto viene el 3000
+
 2º Arrancar el servidor (Vease Server/README.md)
+
 3º Poner en el navegador http://localhost:3000 (Por defecto el server se ejecuta en el puerto 3000)
+
 4º Ejecutar la APP de escritorio (Desktop/x64/Debug/Desktop.exe)
 
 Escirbir el nombre en la App y pulsar el botón
