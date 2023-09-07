@@ -9,5 +9,6 @@ npm start
 O
 ```bash
 npm install
+npm i nodemon
 npm run dev
 ```
