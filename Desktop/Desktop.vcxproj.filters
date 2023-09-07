@@ -33,5 +33,8 @@
     <None Include=".gitignore">
       <Filter>Archivos de origen</Filter>
     </None>
+    <None Include="README.md">
+      <Filter>Archivos de origen</Filter>
+    </None>
   </ItemGroup>
 </Project>
